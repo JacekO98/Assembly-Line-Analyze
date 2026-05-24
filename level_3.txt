@@ -1,0 +1,153 @@
+level_3 = {
+    10: {
+        10: {
+            10: "Problem z pomiarem Cardana",
+            20: "Problem z pomiarem Gearset'u",
+            30: "ST10 - Test wizyjny - Inne"},
+        20: {
+            10: "Urwana taśma",
+            20: "ST10 - Taśma - Inne"},
+        30: {
+            10: "ST10 - inne - Inne"}
+    },
+    20: {
+        10: {
+            10: "Zawieszenie monitora",
+            20: "ST20 - Monitor - Inne"},
+        20: {
+            10: "Zablokowana paletka",
+            20: "ST20 - Pompa - Inne"},
+        30: {
+            10: "Pompowanie powietrza na zbiornika ze smarem",
+            20: "Wyciek smaru",
+            30: "ST20 - Pompa - Inne"},
+        40: {
+            10: "Zawieszenie korpusu",
+            20: "Źle zaprasowane łożyska",
+            30: "ST20 - Prasa - Inne"},
+        50: {
+            10: "Zawieszenie systemu wizyjnego",
+            20: "ST20 - System wizyjny - Inne"},
+        60: {
+            10: "ST20 - inne - Inne"}
+        },
+    30: {
+        10: {
+            10: "ST30 - Drukarka - Inne"},
+        20: {
+            10: "ST30 - Test wizyjny - Inne"},
+        30: {
+            10: "ST30 - inne - Inne"}
+        },
+    40: {
+        10: {
+            10: "Zablokowana paletka",
+            20: "ST40 - Paletki - Inne"},
+        20: {
+            10: "Test wizyjny",
+            20: "ST40 - Test wizyjny - Inne"
+        },
+        30: {
+            10: "ST40 - Winda - Inne"
+        },
+        40: {
+            10: "ST40 - inne - Inne"
+        }
+    },
+    41: {
+        10: {
+            10: "Zawieszenie na śrubie",
+            20: "ST41 - Klucz - Inne"
+        },
+        20: {
+            10: "Zablokowana paletka",
+            20: "ST41 - Podajnik paletek - Inne"
+        },
+        30: {
+            10: "Zawieszenie stacji",
+            20: "ST41 - Stacja - Inne"
+        },
+        40: {
+            10: "ST41 - inne - Inne"
+        }
+    },
+    50: {
+        10: {
+            10: "Spadający motor",
+            20: "Zawieszony motor",
+            30: "ST50 - Łapa - Inne"
+        },
+        20: {
+            10: "Przedłużony test",
+            20: "Odpad na szczelność",
+            30: "ST50 - Test szczelności - Inne"
+        },
+        30: {
+            10: "ST50 - inne - Inne"
+
+        }
+    },
+    55: {
+        10: {
+            10: "Zawieszenie się",
+            20: "ST55 - Winda - inne"
+        },
+        20: {
+            10: "ST55 - inne - Inne"
+        }
+    },
+    60: {
+        10: {
+            10: "Kalibracja stacji",
+            20: "Praca na Cell 2",
+            30: "Przedłużony test czystości",
+            40: "Przedłużony test szczelności",
+            50: "Stół obrotowy",
+            60: "Uszkodzony adapter",
+            70: "Zablokowany motor na stacji",
+            80: "ST60 - Cell 1 - Inne"
+        },
+        20: {
+            10: "Kalibracja stacji",
+            20: "Odpad na czystość",
+            30: "Przedłużony test czystości",
+            40: "Uszkodzony adapter",
+            50: "Zablokowany motor na stacji",
+            60: "ST60 - Cell 2 - Inne"
+        },
+        30: { 
+            10: "Upuszczenie motoru przez robota",
+            20: "Zawieszenie robota",
+            30: "ST60 - KUKA - Inne"
+        },
+        40: {
+            10: "ST60 - inne - Inne"
+        }
+    },
+    70: {
+        10: {
+            10: "Zawiesza się",
+            20: "ST70 - Adeq - Inne"
+        },
+        20: {
+            10: "Zawieszenie robota",
+            20: "ST70 - KUKA - Inne"
+            },
+        30: {
+            10: "ODpad na dren",
+            20: "ST70 - Odpad - Inne"
+            },
+        40: {
+            10: "ST70 - inne - Inne",
+            }
+    },
+    80: {
+        10: {
+            10: "Zawieszenie Monitora",
+            20: "ST80 - Monitor - Inne"
+        },
+        20: {
+            10: "ST80 - inne - Inne"
+        }
+    }
+}
