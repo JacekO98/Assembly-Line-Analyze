@@ -1,0 +1,3 @@
+sprawdzić jeszcze raz dane bo coś się zjebało
+Sprawdzić jak nazwać KPI i jak są liczone szczególnie te w OEE
+Poprawić apkę w pythonie żeby format zapisywany był od razu kompatybilny z tym co jest w POwerBI
